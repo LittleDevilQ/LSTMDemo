@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 #Long short-term memory(LSTM)/ 长短期记忆网络
-@author: Liu Rui
+#Learning Memory Access Patterns
+@author: Qiu Dehua
 """
 
 import time
